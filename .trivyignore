@@ -1,0 +1,2 @@
+# setuptools tidak ada di filesystem akhir (bukti: pip list dan ls site-packages), terdeteksi dari sisa layer
+CVE-2025-47273
