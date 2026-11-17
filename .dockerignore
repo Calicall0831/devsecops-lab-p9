@@ -1,0 +1,14 @@
+.env
+*.env
+.env.*
+.git
+.gitignore
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+tests/
+docs/
+README.md
+Dockerfile*
+hasil-*.txt
